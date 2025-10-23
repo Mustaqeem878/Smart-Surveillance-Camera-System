@@ -1,0 +1,115 @@
+Date: 18/12/2024
+Time: 14:41
+Phone Number: +91 7204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 18:56
+Phone Number: +1234567890
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 19:14
+Phone Number: +1234567890
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 19:28
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 19:46
+Phone Number: +197204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 20:7
+Phone Number: +197204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 20:11
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 20:18
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 18/12/2024
+Time: 21:4
+Phone Number: +1234567890
+Message: Alert: lion has been detected!
+--------------------
+Date: 18/12/2024
+Time: 23:14
+Phone Number: +197204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 19/12/2024
+Time: 0:5
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 19/12/2024
+Time: 9:29
+Phone Number: +917204872772
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!
+--------------------
+Date: 19/12/2024
+Time: 9:32
+Phone Number: +917204872772
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!
+--------------------
+Date: 19/12/2024
+Time: 9:36
+Phone Number: +197204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 19/12/2024
+Time: 9:37
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 19/12/2024
+Time: 9:39
+Phone Number: +917204872772
+Message: Harmful animal detected: lion!
+--------------------
+Date: 19/3/2025
+Time: 23:32
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 19/3/2025
+Time: 23:35
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 19/3/2025
+Time: 23:43
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 19/3/2025
+Time: 23:45
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 20/3/2025
+Time: 0:39
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 20/3/2025
+Time: 5:27
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: lion. Stay vigilant and take immediate precautions!!
+--------------------
+Date: 20/3/2025
+Time: 9:20
+Phone Number: +919590384203
+Message: ALERT! Harmful animal detected: crocodile. Stay vigilant and take immediate precautions!!
+--------------------
